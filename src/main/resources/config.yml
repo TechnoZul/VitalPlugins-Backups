@@ -1,0 +1,14 @@
+plugin-color: "&9"
+permission: "vitalplugins.backup"
+messages:
+  permission: "&cNie masz uprawnienia: &7{permission}"
+  offline-player: "&cGracz o tym nicku jest offline"
+  no-backup: "&cTen gracz nie ma żadnych backup'ów"
+mysql:
+  host: host
+  port: 3306
+  name: name
+  user: user
+  password: password
+bot-token: token
+guild-id: guildID

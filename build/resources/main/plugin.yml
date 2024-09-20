@@ -1,0 +1,8 @@
+name: VitalPlugins_backups
+version: '${project.version}'
+main: vitalplugins.vitalplugins_backups.Main
+api-version: '1.16'
+commands:
+  backup:
+    description: Plugin na backupy
+    usage: /vbackup <gracz>
